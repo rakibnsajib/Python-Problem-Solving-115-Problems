@@ -73,15 +73,15 @@
 
 31. Print Patterns: Write a Python program using nested loops to print the following pattern:
 
-*
+`*`
 
-**
+`**`
 
-***
+`***`
 
-****
+`****`
 
-*****
+`*****`
 
 32. Matrix Multiplication: Write a Python program using nested loops to multiply two matrices.
 
