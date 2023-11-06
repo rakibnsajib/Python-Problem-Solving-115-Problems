@@ -1,6 +1,9 @@
 ﻿# Python Problem Solving : 115 Problems
 ![Header Image](images/python.jpg)
 
+<br><br>
+
+
 ### Basic Problems:
 1. Variable Swap: Write a Python program to swap the values of two variables without using a temporary variable.
 
@@ -23,6 +26,7 @@
 10. Typecasting Challenge: Given three variables: `a = ‘100’`, `b = 25`, and `c = ‘10.5’`, write a Python program to perform the following operations and print the results: – Convert `a` to an integer and add it to `b`. – Convert `c` to a float and subtract it from the result of the first operation. – Convert the final result to a string and concatenate it with the string ” is the answer.”
 
  
+<br><br>
 
 ### Python Conditional Statements:
 11. Positive, Negative, or Zero: Write a Python program that takes a number as input and prints whether it is positive, negative, or zero.
@@ -44,6 +48,7 @@
 19. Number Ranges: Write a Python program that takes an integer as input and prints whether the number falls within the ranges: 0-50, 51-100, 101-150, or above 150.
 
  
+<br><br>
 
 ### For & While Loops:
 20. Sum of N Numbers: Write a Python program using a for loop to calculate the sum of the first N natural numbers, where N is taken as input from the user.
@@ -67,6 +72,7 @@
 29. Reverse String: Write a Python program using a while loop to reverse a given string.
 
  
+<br><br>
 
 ### Nested Loops:
 30. Multiplication Table: Write a Python program using nested loops to print the multiplication table from 1 to 10.
@@ -88,6 +94,7 @@
 33. Chessboard Pattern: Write a Python program using nested loops to print a chessboard pattern (alternating “X” and “O” characters) of size 8×8.34. Number Pyramid: Write a Python program using nested loops to print a number pyramid like the following: 1 22 333 4444 55555
 
  
+<br><br>
 
 ### List Problems:
 34. List Sum: Write a Python program to find the sum of all elements in a given list of integers.
@@ -111,6 +118,7 @@
 43. List Comprehension: Given a list of integers, write a Python program to create a new list that contains the squares of the elements using list comprehension.
 
  
+<br><br>
 
 ### Nested List Problems:
 44. Matrix Addition: Write a Python program to add two matrices represented as nested lists.
@@ -124,6 +132,7 @@
 48. List of Lists Concatenation: Given a list of nested lists, write a Python program to concatenate all the sublists into a single flat list.
 
  
+<br><br>
 
 ### Tuple Problems:
 49. Tuple Concatenation: Write a Python program to concatenate two tuples and create a new tuple.
@@ -147,6 +156,7 @@
 58. Tuple Packing: Write a Python program to pack three variables into a single tuple and print the tuple.
 
  
+<br><br>
 
 ### Nested List Problems:
 59. Nested List Element Access: Given a nested list, write a Python program to access and print specific elements from it.
@@ -170,6 +180,7 @@
 68. Nested List Element Search: Write a Python program to search for a specific element in a nested list and return its position (row and column indices).
 
  
+<br><br>
 
 ### Set Problems:
 69. Duplicate Removal: Write a Python program that takes a list of elements as input and creates a new set containing only the unique elements from the list.
@@ -193,6 +204,7 @@
 76. Set Membership Test: Write a Python program that takes an element as input and checks if it exists in a given set. Print “Found” if the element is present and “Not Found” otherwise.
 
  
+<br><br>
 
 ### Dictionary Problems:
 77. Dictionary Manipulation: Given a dictionary with student names as keys and their corresponding scores as values, write a Python program to add a new student to the dictionary and update the score of an existing student.
@@ -216,6 +228,7 @@
 86. Dictionary Key Check: Write a Python program that takes a key as input and checks if it exists in a given dictionary. Print “Key Found” if the key is present and “Key Not Found” otherwise.
 
  
+<br><br>
 
 ### Nested Dictionary Problems:
 87. Access Nested Dictionary: Given a nested dictionary containing student details, write a Python program to access and print specific information such as a student’s name, age, and address.
@@ -229,6 +242,7 @@
 91. Nested Dictionary Key Search: Write a Python program that takes a key as input and searches for it in a nested dictionary. If found, print the corresponding value, otherwise, print “Key Not Found.”
 
  
+<br><br>
 
 ### Break & Continue: 
 92. Prime Number Checker: Write a Python program that takes a number as input and determines if it is a prime number or not. Use a `for` loop to check for factors. If a factor is found, `break` out of the loop.
@@ -252,6 +266,7 @@
 101. Unique Characters: Write a Python program that takes a string as input and checks if it contains all unique characters (no character repeats). Use a `for` loop and `break` when a character repeats.
 
  
+<br><br>
 
 ### Functions Problems:
 102. Factorial Calculator: Write a Python function called `factorial` that takes an integer as input and returns its factorial. Test the function with different values.
@@ -267,6 +282,7 @@
 107. Leap Year Checker: Write a Python function called `is_leap_year` that takes a year as input and returns `True` if it is a leap year and `False` otherwise. Test the function with different years.
 
  
+<br><br>
 
 ### Nested Functions Problems:
 108. Math Operations: Write a Python function called `math_operations` that takes three numbers and a string representing an operation (‘add’, ‘subtract’, ‘multiply’, or ‘divide’). The function should return the result of the specified operation on the three numbers. Implement the math operations as nested functions.
@@ -276,6 +292,7 @@
 110. Temperature Converter: Write a Python function called `temperature_converter` that takes a temperature value and a string representing the scale (‘C’ for Celsius or ‘F’ for Fahrenheit) as input. The function should convert the temperature from one scale to the other using nested functions and return the converted value.
 
  
+<br><br>
 
 ### Recursion:
 111. Factorial Calculation: Write a recursive Python function called `factorial` that takes a non-negative integer as input and returns its factorial.
